@@ -1,5 +1,5 @@
 {
-  "name": "@ma1022/aws-ses-email-templates",
+  "name": "aws-ses-email-templates",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
